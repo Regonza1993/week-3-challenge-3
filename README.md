@@ -20,7 +20,7 @@ This challenge involved generating a random password based on a set of user sele
 *THEN the password is either displayed in an alert or written to the page*  
 
 ## Screenshot
-![webpage screenshot](./assets/images/webpage-screenshot.png)
+![webpage screenshot](./Assets/images/webpage-screenshot.png)
 
 ## Application Link
 https://regonza1993.github.io/week-3-challenge-3/
